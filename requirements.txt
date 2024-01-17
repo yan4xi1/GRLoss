@@ -1,0 +1,11 @@
+# torch==1.7.0
+torchvision
+pandas
+numpy
+Pillow
+scikit_learn
+tqdm
+munch
+pyyaml
+awscli
+boto3
